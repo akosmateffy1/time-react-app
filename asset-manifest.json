@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/time-react-app/static/css/main.759080bd.css",
+    "main.js": "/time-react-app/static/js/main.00664504.js",
+    "index.html": "/time-react-app/index.html",
+    "main.759080bd.css.map": "/time-react-app/static/css/main.759080bd.css.map",
+    "main.00664504.js.map": "/time-react-app/static/js/main.00664504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.759080bd.css",
+    "static/js/main.00664504.js"
+  ]
+}
